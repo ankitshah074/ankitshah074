@@ -11,7 +11,7 @@ I'm a passionate AI/ML student deeply interested in building intelligent systems
 
 - 🧠 Skilled in **Machine Learning**, **Deep Learning**, and **NLP**
 - 🔭 Currently working on a **GenAI assistant for document Q&A**
-- 🏆 Winner of [Your Hackathon Name] - PRODUCTATHON AI(IIT ROORKEE)
+- 🏆 Winner of - PRODUCTATHON AI(IIT ROORKEE)
 - ✍️ I write code in **Python**, explore datasets, and share ML notebooks
 
 ---
@@ -40,7 +40,8 @@ I'm a passionate AI/ML student deeply interested in building intelligent systems
 
 ### 📈 GitHub Stats
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitshah074&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitshah074&theme=radical)](https://git.io/streak-stats)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitshah074&layout=compact)
 
