@@ -49,7 +49,7 @@ I'm a passionate AI/ML student deeply interested in building intelligent systems
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ank-it-shah/)
-- ✉️ Email: ankit.shah@email.com
+- ✉️ Email: ankitshah5721@gmail.com
 
 ---
 
