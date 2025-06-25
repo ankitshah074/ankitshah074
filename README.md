@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ankit Shah!
 
-🎓 AI/ML Enthusiast | Python Developer | Open to Opportunities  
-📍 Based in India | 📫 ankitshah5721@gmail.com
+🎓 AI/ML Enthusiast | Open to Opportunities  
+📫 ankitshah5721@gmail.com
 
 ---
 
 ### 🔍 About Me
 
-I'm a passionate AI/ML student deeply interested in building intelligent systems that solve real-world problems. I enjoy working with data, experimenting with models, and deploying ML projects.
+I am a final-year student majoring in Artificial Intelligence and Machine Learning, with deeply interested in building intelligent systems that solve real-world problems. I enjoy working with data, experimenting with models, and deploying ML projects.
 
 - 🧠 Skilled in **Machine Learning**, **Deep Learning**, and **NLP**
 - 🔭 Currently working on a **GenAI assistant for document Q&A**
