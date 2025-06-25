@@ -40,9 +40,6 @@ I'm a passionate AI/ML student deeply interested in building intelligent systems
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitshah074&theme=radical)](https://git.io/streak-stats)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitshah074&layout=compact)
 
 ---
