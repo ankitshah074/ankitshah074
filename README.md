@@ -11,7 +11,7 @@ I am a final-year student majoring in Artificial Intelligence and Machine Learni
 
 - 🧠 Skilled in **Machine Learning**, **Deep Learning**, and **NLP**
 - 🔭 Currently working on a **GenAI assistant for document Q&A**
-- 🏆 Winner of - PRODUCTATHON AI(IIT ROORKEE)
+- 🏆 Finalist of - PRODUCTATHON AI(IIT ROORKEE)
 - ✍️ I write code in **Python**, explore datasets, and share ML notebooks
 
 ---
